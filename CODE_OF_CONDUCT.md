@@ -2,86 +2,91 @@
 
 ## Our Pledge
 
-We are committed to making participation in this project a welcoming and respectful experience for everyone.
+We pledge to make participation in this project a respectful, welcoming, and harassment-free experience for everyone.
 
-We welcome contributors regardless of age, background, experience level, nationality, identity, disability, religion, or personal beliefs.
-
-Our goal is to create a positive community where people can collaborate, learn, share ideas, and contribute without fear of harassment or discrimination.
+We are committed to creating an open and inclusive community where all contributors can participate, share ideas, and collaborate respectfully.
 
 ## Our Standards
 
-Examples of behavior that contribute to a positive environment include:
+Examples of behavior that contributes to a positive environment include:
 
-- Being respectful and considerate toward other contributors.
+- Being respectful and considerate toward others.
 - Using welcoming and inclusive language.
-- Accepting constructive feedback professionally.
-- Respecting different opinions, experiences, and viewpoints.
+- Respecting different viewpoints and experiences.
+- Giving and accepting constructive feedback.
 - Focusing on what is best for the project and the community.
-- Helping other contributors when possible.
+- Showing empathy toward other community members.
 
 Examples of unacceptable behavior include:
 
 - Harassment, insults, threats, or discriminatory comments.
-- Personal attacks or offensive language.
+- Personal or political attacks.
+- Offensive or inappropriate language.
 - Publishing another person's private information without permission.
-- Deliberately disrupting discussions or project activities.
-- Any behavior that would reasonably be considered inappropriate in a professional environment.
+- Deliberately disrupting project discussions or activities.
+- Any conduct that would reasonably be considered inappropriate in a professional environment.
 
 ## Enforcement Responsibilities
 
-Project maintainers are responsible for explaining and enforcing this Code of Conduct.
+Project maintainers are responsible for clarifying and enforcing the standards of acceptable behavior.
 
-They may take appropriate action when behavior is considered unacceptable, harmful, threatening, or inappropriate.
+Maintainers may take appropriate and fair corrective action in response to behavior that they consider inappropriate, threatening, offensive, or harmful.
 
-Maintainers should handle reports fairly, respectfully, and confidentially.
+Project maintainers are also responsible for handling reports of violations respectfully and confidentially.
 
 ## Scope
 
-This Code of Conduct applies to all project spaces, including:
+This Code of Conduct applies within all project spaces.
 
-- GitHub issues
+This includes:
+
+- GitHub repositories
+- Issues
 - Pull requests
-- Discussions
 - Code reviews
+- Discussions
 - Documentation
-- Project-related communication
+- Other communication related to the project
 
-It also applies when someone is publicly representing the project or its community.
+It also applies when an individual is officially representing the project or its community.
 
 ## Enforcement
 
-If you experience or observe unacceptable behavior, you should report it to the project maintainers.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers.
 
-Reports will be reviewed as soon as possible.
+All complaints will be reviewed and investigated fairly.
 
-The identity and personal information of the person making the report will be treated confidentially whenever possible.
+The maintainers will respect the privacy and security of the person reporting an incident whenever possible.
 
-Project maintainers may remove comments, reject contributions, temporarily restrict participation, or permanently remove contributors when necessary.
+Appropriate actions may include removing comments, rejecting contributions, issuing warnings, temporarily restricting participation, or permanently banning a contributor.
 
 ## Enforcement Guidelines
 
-Project maintainers may use the following guidelines when deciding how to respond to violations.
+Project maintainers may follow these guidelines when determining the consequences of violations.
 
 ### 1. Correction
 
-For minor or unintentional inappropriate behavior, the contributor may receive a private explanation and request to correct the behavior.
+For minor or unintentional inappropriate behavior, the contributor may receive a private explanation and be asked to correct their behavior.
 
 ### 2. Warning
 
-For repeated or more serious behavior, the contributor may receive an official warning explaining the problem and the expected change in behavior.
+For repeated or more serious inappropriate behavior, the contributor may receive an official warning.
 
-### 3. Temporary Restriction
+The warning may include information about the violation and the behavior expected in the future.
 
-For serious or repeated violations, the contributor may be temporarily prevented from participating in project discussions, issues, or contributions.
+### 3. Temporary Ban
+
+For serious or repeated violations, a contributor may be temporarily prohibited from interacting with the project or community.
 
 ### 4. Permanent Ban
 
-For severe harassment, threats, discrimination, or repeated violations, a contributor may be permanently removed from the project community.
+For severe violations, harassment, threats, discrimination, or repeated unacceptable behavior, a contributor may be permanently removed from the project community.
 
 ## Attribution
 
-This Code of Conduct is inspired by the Contributor Covenant and has been adapted for this project.
+This Code of Conduct is adapted from the Contributor Covenant.
 
-The Contributor Covenant is available at:
-
+Contributor Covenant:
 https://www.contributor-covenant.org/
+
+For more information about community standards and open-source collaboration, please refer to the Contributor Covenant website.
